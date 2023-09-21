@@ -1,33 +1,128 @@
-body,html{
+body, html {
     padding: 0;
     margin: 0;
-    overflow-x:hidden;
+    overflow-x: hidden;
+    font-family: "Segoe UI";
 }
-.arrierePlan{
+
+.arrierePlan {
     background-image: url("heromono.jpg");
-    background-position:center;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
     width: 100vw;
 }
-.enTête{
+
+.enTête {
     background-color: rgba(0, 0, 0, 0.31);
     height: 20%;
     display: flex;
-    align-items: center;
     justify-content: space-between;
+    align-items: center;
     padding-left: 20px;
     padding-right: 20px;
 }
-.ecrire{
-    flex: content;
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.ecrire {
     font-weight: bolder;
     color: white;
-    font-family:"Segoe UI ";
+    font-family: "Segoe UI";
     font-size: 1.30em;
+}
+
+.ecrire1 {
+    font-weight: bolder;
+    color: blue;
+    font-family: "Segoe UI";
+    font-size: 1.30em;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    font-family: "Segoe UI";
+    font-size: 1.30em;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+    color: #007bff;
+}
+.interne {
+    text-align: center;
+    padding: 150px;
+    text-transform : uppercase;
+}
+.text1, .text2 {
+    font-family: "Segoe UI";
+    font-size: 1.3em;
+    color: white;
+    margin: 0;
+    font-weight: bolder;
+}
+.pictures{
+    background-color: #007bff;
+    text-decoration-color: rgba(255, 255, 255, 0.42);
+}
+
+.contenu{
+        display: flex;
+        flex: 1;
+        text-align: left;
+        padding: 10px;
 
 }
-.ecrire1{
- color: blue;
+.service{
+
+    padding: 40px;
 }
+
+.choix a {
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    font-family: "Segoe UI";
+    font-size: 1.20em;
+    padding: 100px;
+}
+.portfolio{
+    width: 100vw;
+}
+.portrait {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nature1{
+    background-image: url("eeeee.jpg");
+
+}
+.nature2{
+    background-image: url("images/2.png");
+
+}
+.nature3{
+    background-image: url("images/3.png");
+}
+.nature4{
+    background-image: url("images/4.png");
+
+}
+.nature5{
+    background-image: url("images/5.png");
+
+}
+.nature6{
+    background-image: url("images/5.png");
+
+}
+
+
+
