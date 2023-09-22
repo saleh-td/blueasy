@@ -32,22 +32,19 @@ body, html {
 .ecrire {
     font-weight: bolder;
     color: white;
-    font-family: "Segoe UI";
     font-size: 1.30em;
 }
 
 .ecrire1 {
     font-weight: bolder;
     color: blue;
-    font-family: "Segoe UI";
     font-size: 1.30em;
 }
 
 .menu a {
     text-decoration: none;
-    color: white;
+    color: black;
     margin-left: 20px;
-    font-family: "Segoe UI";
     font-size: 1.30em;
 }
 
@@ -61,7 +58,6 @@ body, html {
     text-transform : uppercase;
 }
 .text1, .text2 {
-    font-family: "Segoe UI";
     font-size: 1.3em;
     color: white;
     margin: 0;
@@ -84,45 +80,148 @@ body, html {
     padding: 40px;
 }
 
-.choix a {
+.portfolio{
+    padding-bottom: 10vh;
+    padding-top: 50px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    text-transform : uppercase;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+}
+.navbar.hover{
+    text-decoration: underline;
+    color: #007bff;
+}
+.accuracies{
+
+}
+.port{
+    text-align: left;
+}
+.accuracies a {
     text-decoration: none;
     color: black;
-    margin-left: 10px;
-    font-family: "Segoe UI";
-    font-size: 1.20em;
-    padding: 100px;
+    margin-left: 20px;
+    font-size: 1.30em;
 }
-.portfolio{
-    width: 100vw;
+
+.accuracies a :hover {
+    text-decoration: underline;
+    color: #007bff;
 }
-.portrait {
+.portrait{
     display: flex;
     justify-content: center;
+}
+
+ .nature1 {
+     background-image: url('pipe.jpg');
+
+ }
+.nature2 {
+    background-image: url('Mangroves,_Orpheus_Island,_Australia.jpeg');
+
+
+
+}
+.nature3 {
+    background-image: url('lok.jpg');
+
+
+}
+.nature4 {
+    background-image: url('tnc_52987642_Full.jpg');
+
+
+}
+.nature5 {
+    background-image: url('images.jpg');
+
+}
+.nature6 {
+    background-image: url('whois.jpg');
+}
+
+.portrait .nature1,
+.portrait .nature2,
+.portrait .nature3,
+.portrait .nature4,
+.portrait .nature5,
+.portrait.nature6 {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 250px;
+    height: 200px;
+    transition: flex 1s cubic-bezier(.16,1.41,.53,-1.05);
+}
+.new-section {
+    display: flex;
+    background-color: rgba(89, 89, 115, 0.75);
+    padding: 100px;
+    text-decoration-color: antiquewhite;
+}
+
+.left-content {
+    flex: 1;
+}
+
+.right-content {
+    flex: 1;
+}
+
+h2 {
+    margin-bottom: 50px;
+}
+
+p {
+    line-height: 1.5;
+    margin: 0;
+}
+.twitter{
+    background-color: #31b3b7;
+    padding: 100px;
+
+}
+.twit1{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    text-decoration-color: antiquewhite;
+}
+
+.twitter.p{
+    text-align: justify;
+}
+
+.infos{
+    background-color: darkgray;
+    padding: 100px;
+}
+
+.suiteinfos1{
+    width: 500px;
+}
+
+.suiteinfos2{
+    width: 500px;
+}
+
+.suiteinfos{
+    display: flex;
+    justify-content: space-evenly;
     align-items: center;
 }
-.nature1{
-    background-image: url("eeeee.jpg");
 
+.infosp{
+    padding-bottom: 20px;
 }
-.nature2{
-    background-image: url("images/2.png");
-
-}
-.nature3{
-    background-image: url("images/3.png");
-}
-.nature4{
-    background-image: url("images/4.png");
-
-}
-.nature5{
-    background-image: url("images/5.png");
-
-}
-.nature6{
-    background-image: url("images/5.png");
-
-}
-
-
-
