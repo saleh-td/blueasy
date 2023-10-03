@@ -1,0 +1,59 @@
+
+<codestructure version="1.11.1">
+<phptree>
+<treenode node="./Database/DBConnection.php;PHP:PHP Include;E:\www_local\go2secure\download.php;f15;4;42;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="FilesMngt.php;PHP:PHP Include;E:\www_local\go2secure\tst.php;f9;1;22;1;;E:\www_local\go2secure\download.php;f14;1;27;1;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="NewsWidget.php;PHP:PHP Include;E:\www_local\go2portal\Portail.php;f28;45;42;45;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="bases/BddActu.php;PHP:PHP Include;E:\www_local\go2portal\NewsConstruct.php;f15;5;32;5;;E:\www_local\go2portal\NewsWidget.php;f15;3;32;3;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="functions/Remember.php;PHP:PHP Include;E:\www_local\go2portal\Portail.php;f15;3;37;3;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="functions/TraductionBdd.php;PHP:PHP Include;E:\www_local\go2portal\NewsConstruct.php;f15;3;42;3;;E:\www_local\go2portal\Portail.php;f15;4;42;4;;E:\www_local\go2portal\NewsWidget.php;f15;1;42;1;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="functions/redirections/AdminAndSupAdmin.php;PHP:PHP Include;E:\www_local\go2portal\NewsConstruct.php;f15;2;58;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="functions/redirections/Redirection.php;PHP:PHP Include;E:\www_local\go2portal\Portail.php;f15;2;53;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="layouts/Footer.php;PHP:PHP Include;E:\www_local\go2portal\NewsConstruct.php;f16;60;34;60;;E:\www_local\go2portal\Portail.php;f23;52;41;52;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="layouts/Header.php;PHP:PHP Include;E:\www_local\go2portal\NewsConstruct.php;f23;41;41;41;;E:\www_local\go2portal\Portail.php;f24;28;42;28;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="layouts/SocialMedia.php;PHP:PHP Include;E:\www_local\go2portal\Portail.php;f23;50;46;50;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="layouts/ThemeStyle.php;PHP:PHP Include;E:\www_local\go2portal\NewsConstruct.php;f15;4;37;4;;E:\www_local\go2portal\Portail.php;f15;5;37;5;;E:\www_local\go2portal\NewsWidget.php;f15;2;37;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="liens-portail/GeneralLink.php;PHP:PHP Include;E:\www_local\go2portal\Portail.php;f27;36;56;36;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="liens-portail/PersonalLink.php;PHP:PHP Include;E:\www_local\go2portal\Portail.php;f22;38;52;38;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="Fpdi;PHP:Class Name;E:\www_local\go2secure\Librairies\FPDI\src\Fpdi.php;f0;22;1;33;;;;vpos;;v;;aFpdfTpl;;c;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    class Fpdi extends FpdfTpl&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Class Fpdi&#10;This class let you import pages of existing PDF documents into a reusable structure for FPDF.;;d0,23;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+<treenode node="VERSION;PHP:PHP Word;E:\www_local\go2secure\Librairies\FPDI\src\Fpdi.php;f9;32;17;32;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    FPDI version&#10;&lt;b&gt;string&lt;/b&gt;;;d-1,-1;;b0,5;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+</treenode>
+<treenode node="ArchiveAndCryptFile;PHP:Function Name;E:\www_local\go2secure\FilesMngt.php;f0;43;1;53;;;;vpos;;v;;a;;r;;d0,44;;b0,0;;m0;;e0;;i0;;o;;k;;lsrcFile;;pdestFolder;;p;;x;;x">
+</treenode>
+<treenode node="ExecPython;PHP:Function Name;E:\www_local\go2secure\FilesMngt.php;f0;99;1;103;;;;vpos;;v;;a;;r;;d0,100;;b0,0;;m0;;e0;;i0;;o;;k;;lpythonFile;;pParams;;poutput;;pretval;;p;;x;;x;;x;;x">
+</treenode>
+<treenode node="GetClearFilename;PHP:Function Name;E:\www_local\go2secure\FilesMngt.php;f0;82;1;90;;;;vpos;;v;;a;;r;;d0,83;;b0,0;;m0;;e0;;i0;;o;;k;;lcryptedFilename;;p;;x">
+</treenode>
+<treenode node="GetClearNameOfFile;PHP:Function Name;E:\www_local\go2secure\FilesMngt.php;f0;68;1;80;;;;vpos;;v;;a;;r;;d0,69;;b0,0;;m0;;e0;;i0;;o;;k;;lcat;;psubCat;;pfName;;p;;x;;x;;x">
+</treenode>
+<treenode node="MakeDirectory;PHP:Function Name;E:\www_local\go2secure\FilesMngt.php;f0;30;1;41;;;;vpos;;v;;a;;r;;d0,31;;b0,0;;m0;;e0;;i0;;o;;k;;lDirectory;;p;;x">
+</treenode>
+<treenode node="UnArchiveAndUncryptFile;PHP:Function Name;E:\www_local\go2secure\FilesMngt.php;f0;92;1;97;;;;vpos;;v;;a;;r;;d0,93;;b0,0;;m0;;e0;;i0;;o;;k;;lsrcFolder;;psrcFile;;pdestFolder;;p;;x;;x;;x">
+</treenode>
+<treenode node="hexaToText;PHP:Function Name;E:\www_local\go2secure\FilesMngt.php;f0;55;1;66;;;;vpos;;v;;a;;r;;d0,56;;b0,0;;m0;;e0;;i0;;o;;k;;lhexfile;;p;;x">
+</treenode>
+<treenode node="main;PHP:Function Name;E:\www_local\go2secure\FilesMngt.php;f0;105;1;143;;;;vpos;;v;;a;;r;;d0,106;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="uploadFile;PHP:Function Name;E:\www_local\go2secure\FilesMngt.php;f0;1;1;28;;;;vpos;;v;;a;;r;;d0,2;;b0,0;;m0;;e0;;i0;;o;;k;;lfileSrc;;pfolderDest;;p;;x;;x">
+</treenode>
+</phptree>
+<jstree>
+</jstree>
+<pythontree>
+</pythontree>
+</codestructure>
